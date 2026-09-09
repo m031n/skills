@@ -1,0 +1,4 @@
+interface:
+  display_name: "Farsi Trading UX Writing"
+  short_description: "Write clear Farsi microcopy for trading products"
+  default_prompt: "Use $farsi-trading-ux-writing to write or audit Farsi UX copy for a trading app."
